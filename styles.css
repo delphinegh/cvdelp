@@ -1,0 +1,36 @@
+/* img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.container {
+  position: relative;
+  width: 50%;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(255, 94, 0);
+  overflow: hidden;
+  width: 0%;
+  height: 100%;
+  transition: 0.5s ease;
+  border-radius: 50%;
+}
+
+.container:hover .overlay {
+  width: 15%;
+}
+.text {
+  white-space: nowrap;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+} */
